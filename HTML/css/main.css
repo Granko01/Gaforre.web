@@ -88,7 +88,7 @@
   --t-opp-default--dark: #2b2b2b;
   --t-opp-muted--dark: #4c4c4c;
   /* permanent colors */
-  --per-base: #130e28;
+  --per-base: #b1e82d;
   --per-base-rgb: 19, 14, 40;
   --t-per-bright-light: #ffffff;
   --t-per-bright-light-rgb: 255, 255, 255;
@@ -165,7 +165,7 @@
 }
 
 [color-scheme=dark] {
-  --base: var(--base--dark);
+  --base: #b1e82d;
   --base-inner: var(--base-inner--dark);
   --accent: var(--accent--dark);
   --accent-rgb: var(--accent-rgb--dark);
